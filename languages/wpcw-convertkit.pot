@@ -1,0 +1,260 @@
+# Copyright (C) 2019 WP Courseware - ConvertKit
+# This file is distributed under the same license as the WP Courseware - ConvertKit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Courseware - ConvertKit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Fly Plugins <info@flyplugins.com>\n"
+"Last-Translator: Fly Plugins <info@flyplugins.com>\n"
+"Report-Msgid-Bugs-To: https://flyplugins.com/questions/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/api.php:149
+msgid "Webhook: %s"
+msgstr ""
+
+#: ../includes/course.php:55, ../includes/settings.php:50, ../includes/settings.php:116
+msgid "ConvertKit"
+msgstr ""
+
+#: ../includes/course.php:62
+msgid "ConvertKit Forms"
+msgstr ""
+
+#: ../includes/course.php:63
+msgid "Select Forms"
+msgstr ""
+
+#: ../includes/course.php:64, ../includes/course.php:65
+msgid "Select the forms that will be used in ConvertKit when a user is enrolled."
+msgstr ""
+
+#: ../includes/course.php:72
+msgid "ConvertKit Sequences"
+msgstr ""
+
+#: ../includes/course.php:73
+msgid "Select Sequences"
+msgstr ""
+
+#: ../includes/course.php:74, ../includes/course.php:75
+msgid "Select the sequences that will be used in ConvertKit when a user is enrolled."
+msgstr ""
+
+#: ../includes/course.php:82, ../includes/course.php:281
+msgid "ConvertKit Tags"
+msgstr ""
+
+#: ../includes/course.php:83
+msgid "Select Tags"
+msgstr ""
+
+#: ../includes/course.php:84, ../includes/course.php:85
+msgid "Select the tags that will be used in ConvertKit when a user is enrolled."
+msgstr ""
+
+#: ../includes/course.php:93
+msgid "ConvertKit Webooks"
+msgstr ""
+
+#: ../includes/course.php:94, ../includes/course.php:95
+msgid "Add ConvertKit Webhooks that will allow enrollment to this course."
+msgstr ""
+
+#: ../includes/course.php:119
+msgid "Select"
+msgstr ""
+
+#: ../includes/course.php:142, ../includes/course.php:220
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/course.php:252
+msgid "Create a Webhook"
+msgstr ""
+
+#: ../includes/course.php:257, ../includes/course.php:258
+msgid "Webhook Name"
+msgstr ""
+
+#: ../includes/course.php:262
+msgid "Webhook Event Type"
+msgstr ""
+
+#: ../includes/course.php:268
+msgid "Select an Event Type"
+msgstr ""
+
+#: ../includes/course.php:277
+msgid "Select the Event that will occur inside ConvertKit."
+msgstr ""
+
+#: ../includes/course.php:285
+msgid "Select a ConvertKit Tag"
+msgstr ""
+
+#: ../includes/course.php:292
+msgid "Please select the tag that will be used."
+msgstr ""
+
+#: ../includes/course.php:296
+msgid "Select a ConvertKit Form"
+msgstr ""
+
+#: ../includes/course.php:300
+msgid "Select a Form"
+msgstr ""
+
+#: ../includes/course.php:307, ../includes/course.php:321
+msgid "Please select the form that will be used."
+msgstr ""
+
+#: ../includes/course.php:311
+msgid "Select a ConvertKit Sequence"
+msgstr ""
+
+#: ../includes/course.php:315
+msgid "Select a Sequence"
+msgstr ""
+
+#: ../includes/course.php:327
+msgid "Creating Webhook..."
+msgstr ""
+
+#: ../includes/course.php:327, ../includes/course.php:362, ../includes/course.php:371
+msgid "Create Webhook"
+msgstr ""
+
+#: ../includes/course.php:335
+msgid "Name"
+msgstr ""
+
+#: ../includes/course.php:336
+msgid "Event"
+msgstr ""
+
+#: ../includes/course.php:337
+msgid "Target Url"
+msgstr ""
+
+#: ../includes/course.php:338
+msgid "Actions"
+msgstr ""
+
+#: ../includes/course.php:352
+msgid "Deleting..."
+msgstr ""
+
+#: ../includes/course.php:352
+msgid "Delete"
+msgstr ""
+
+#: ../includes/course.php:360
+msgid "There are no webooks available."
+msgstr ""
+
+#. translators: %s: PHP version
+#: ../includes/requirements.php:66
+msgid "WP Courseware - Convertkit requires PHP version %s+ to run. Because you are using an earlier version, the plugin cannot run and has been deactivated."
+msgstr ""
+
+#. translators: %s: WordPress version
+#: ../includes/requirements.php:78
+msgid "WP Courseware - Convertkit requires WordPress version %s+. Because you are using an earlier version, the plugin cannot run and has been deactivated."
+msgstr ""
+
+#: ../includes/requirements.php:89
+msgid "WP Courseware - Convertkit requires WP Courseware to be installed, therefore the plugin cannot run and has been deactivated."
+msgstr ""
+
+#. translators: %s: WordPress version
+#: ../includes/requirements.php:101
+msgid "WP Courseware - Convertkit requires WP Courseware version %s+. Because you are using an earlier version, the plugin cannot run and has been deactivated."
+msgstr ""
+
+#: ../includes/settings.php:51
+msgid "Below are settings related to the ConvertKit addon."
+msgstr ""
+
+#: ../includes/settings.php:56
+msgid "Enable ConvertKit?"
+msgstr ""
+
+#: ../includes/settings.php:57
+msgid "Enable the ConvertKit integration."
+msgstr ""
+
+#: ../includes/settings.php:58
+msgid "When Convert Kit is enabled, WP Courseware will use the settings below to add users to forms, sequences, or tags when enrolled into a course."
+msgstr ""
+
+#: ../includes/settings.php:65, ../includes/settings.php:66
+msgid "ConvertKit Api Key"
+msgstr ""
+
+#: ../includes/settings.php:67
+msgid "Enter your ConvertKit Api key."
+msgstr ""
+
+#: ../includes/settings.php:68
+msgid "Your ConvertKit Api key can be found in your ConvertKit account under the Account menu."
+msgstr ""
+
+#: ../includes/settings.php:78, ../includes/settings.php:79
+msgid "ConvertKit Api Secret"
+msgstr ""
+
+#: ../includes/settings.php:80
+msgid "Enter your Convert Kit Api secret."
+msgstr ""
+
+#: ../includes/settings.php:81
+msgid "Your ConvertKit Api secret can be found in your ConvertKit account under the Account menu."
+msgstr ""
+
+#: ../includes/settings.php:90
+msgid "ConvertKit Api Cache"
+msgstr ""
+
+#: ../includes/settings.php:91
+msgid "By default we cache ConvertKit Api data for 24 hours. Click the button to clear the ConvertKit Api cache."
+msgstr ""
+
+#: ../includes/settings.php:96
+msgid "Clearing ConverKit Api Cache...."
+msgstr ""
+
+#: ../includes/settings.php:97
+msgid "Clear ConvertKit Api Cache"
+msgstr ""
+
+#: ../includes/settings.php:120
+msgid "Save Settings"
+msgstr ""
+
+#: ../includes/webhooks.php:69, ../includes/webhooks.php:70
+msgid "Subscriber activated"
+msgstr ""
+
+#: ../includes/webhooks.php:79, ../includes/webhooks.php:80
+msgid "Subscribes to a form"
+msgstr ""
+
+#: ../includes/webhooks.php:84, ../includes/webhooks.php:85
+msgid "Subscribes to a sequence"
+msgstr ""
+
+#: ../includes/webhooks.php:89, ../includes/webhooks.php:90
+msgid "Completes a sequence"
+msgstr ""
+
+#: ../includes/webhooks.php:94, ../includes/webhooks.php:95
+msgid "Tag added"
+msgstr ""
